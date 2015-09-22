@@ -1,3 +1,4 @@
-Git is a distributed version control system.
+Git is a distrobuted version control system.
 Git is free software.
-Git has a mutable index called stage.
+i want to add line.
+Git has a mble index called stage.
