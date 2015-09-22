@@ -5,3 +5,4 @@ Git has a mble index called stage.
 git add
 workspace
 中文改变
+create a new branch is easy.
