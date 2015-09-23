@@ -9,3 +9,4 @@ create a new branch is easy.
 新建分支后原分支的修改
 新建分支feature1
 20150923-dev分支
+now is dev 分支
