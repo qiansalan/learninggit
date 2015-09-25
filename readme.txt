@@ -10,3 +10,10 @@ create a new branch is easy.
 新建分支feature1
 20150923-dev分支
 now is dev 分支
+
+
+开始学习bug分支：
+现在在DEV分支上工作
+还没改好不能提交，却来了个bug
+
+改完bug后我开心地来这个DEV分支做完这个工作
